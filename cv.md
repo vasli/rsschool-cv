@@ -4,7 +4,7 @@
 4. * Programming languages:*Basic  HTML*, *Python*
     * Programs: *GIT*
 5. Code example:
-*```<!DOCTYPE html>
+* ```<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -38,7 +38,8 @@
             <p><button class="vhod"> Войти </button></p>
         </div>
     </body>
-</html>```
+</html>
+```
 
 6. -
 7. Basic medical education
